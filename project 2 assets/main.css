@@ -1,0 +1,16 @@
+.Parent{display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: lightslategrey;
+    margin-left: 15%;
+    margin-right: 15%;}
+.one {background: repeating-linear-gradient(rgb(16, 160, 76),blue); }
+.two {
+    margin: 5%;
+}
+.photo{
+    position: sticky;
+    top: 40%;
+    height: 120px;
+    padding: 5%;
+}
